@@ -1,0 +1,6 @@
+*.py[oc]
+*.swp
+
+tags
+tags.lock
+tags.temp
